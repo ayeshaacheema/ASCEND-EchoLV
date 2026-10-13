@@ -1,9 +1,10 @@
-gradio
+
+gradio==6.29.0
 tensorflow==2.21.0
 numpy
 pandas
 scipy
-scikit-learn
+scikit-learn==1.6.1
 joblib
 nibabel
 opencv-python-headless
