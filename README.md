@@ -2,7 +2,7 @@
 
 ### Gradio-Based Left Ventricular Segmentation, Quantitative Analysis, and EF Classification from A4C Echocardiography
 
-**ASCEND Lab | National University of Sciences and Technology (NUST), Pakistan**
+**ASCEND TOWER | IT And Software Development Lab, Pakistan**
 
 *Research Supervisor: Dr. M. Raza Ali*
 
@@ -136,7 +136,7 @@ The models were developed on the [CAMUS dataset](https://www.creatis.insa-lyon.f
 
 ## Acknowledgments
 
-Developed during a computer vision research internship at **ASCEND Lab, NUST**, under the supervision of **Dr. M. Raza Ali**. The CAMUS dataset authors are acknowledged for making their data publicly accessible.
+Developed during a computer vision research internship at **ASCEND TOWER, IT AND Software Development Lab**, under the supervision of **Dr. M. Raza Ali**. The CAMUS dataset authors are acknowledged for making their data publicly accessible.
 
 ## License
 
